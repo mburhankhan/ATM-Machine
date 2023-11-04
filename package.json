@@ -1,0 +1,21 @@
+{
+  "name": "atm",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^6.6.6",
+    "inquirer": "^9.2.11"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.2.0",
+    "@types/inquirer": "^9.0.4"
+  }
+}
